@@ -1,35 +1,217 @@
-# local-claude-kit
-Professional local AI agent skills runner. 100% offline via Ollama. Single-file .exe for Windows. Privacy-first
+<p align="center">
+  <img src="assets/logo.svg" width="140" alt="OrbitMCP Logo">
+</p>
 
-**Run the hottest local AI agent skills instantly — 100% offline with Ollama.**
+<h1 align="center">OrbitMCP</h1>
 
-Privacy-first CLI that gives you production-ready skills for meeting summarization, token optimization, code review, pentesting, and multi-agent workflows.  
-Single-file `.exe` — no install, no cloud, no data leaks.
+<p align="center">
+The Crypto MCP Server for AI Agents
+</p>
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Windows](https://img.shields.io/badge/Windows-Ready-blue)
-![Ollama](https://img.shields.io/badge/Powered%20by-Ollama-FF6B35)
+<p align="center">
+Real-time crypto intelligence for Claude, ChatGPT, Cursor, VS Code, Windsurf and every MCP-compatible client.
+</p>
 
-## Why Local Claude Kit?
+<p align="center">
 
-In July 2026, the most starred and cloned repositories are all about **local agents** and **Claude Code skills**:
-- People want powerful AI capabilities without sending sensitive data to OpenAI, Anthropic, or Google.
-- Tools like meetily, strix, caveman, and claude-skills are exploding because they solve real daily problems locally.
+[![Release](https://img.shields.io/github/v/release/YOURNAME/OrbitMCP)](...)
+[![License](https://img.shields.io/github/license/YOURNAME/OrbitMCP)](...)
+[![Stars](https://img.shields.io/github/stars/YOURNAME/OrbitMCP)](...)
+[![Downloads](https://img.shields.io/github/downloads/YOURNAME/OrbitMCP/total)](...)
 
-**Local Claude Kit** packages the most practical skills from this wave into one clean, fast, and private tool.
+</p>
 
-## Key Capabilities
+---
 
-- **Meeting Summarizer** — Turn raw notes or transcripts into clean summaries + action items
-- **Token Optimizer** — Reduce output by 60-70% while keeping full meaning (Caveman Mode)
-- **Code Reviewer** — Deep, actionable code review (bugs, security, performance, architecture)
-- **AI Pentest Agent** — Find vulnerabilities and generate real attack scenarios
-- **Terminal Agent Multiplexer** — Generate efficient commands for running multiple agents
+## Download
 
-All skills run locally through Ollama. Zero telemetry. Zero cloud.
+Pre-built binaries are available in **Releases**.
 
-## Quick Start (Windows — Recommended)
+| Platform | Download |
+|----------|----------|
+| Windows | `.exe` |
+| macOS | `.dmg` |
+| Linux | Binary |
 
-1. Install [Ollama](https://ollama.com) and pull a model:
-   ```bash
-   ollama run llama3.2
+No Python.
+
+No Node.js.
+
+No Docker.
+
+Download → Launch → Connect.
+
+---
+
+## Screenshot
+
+> Dashboard screenshot here
+
+---
+
+# Features
+
+✅ Wallet Analysis
+
+✅ Portfolio Analysis
+
+✅ Live Prices
+
+✅ Rug Detection
+
+✅ Whale Tracking
+
+✅ Token Scanner
+
+✅ Trending Tokens
+
+✅ Market Analytics
+
+✅ Smart Contract Analysis
+
+✅ AI-ready MCP Server
+
+---
+
+# Supported Providers
+
+- CoinGecko
+- DexScreener
+- GeckoTerminal
+- DefiLlama
+- Birdeye
+- Solscan
+- Etherscan
+- Hyperliquid
+- Jupiter
+- Pump.fun
+
+---
+
+# Supported Chains
+
+- Solana
+- Ethereum
+- Base
+- BNB Chain
+- Polygon
+- Arbitrum
+- Optimism
+
+---
+
+# Installation
+
+1. Open Releases.
+2. Download the latest version.
+3. Start OrbitMCP.
+4. Connect your AI client.
+
+Done.
+
+---
+
+# Example Prompts
+
+Analyze this wallet.
+
+Find new meme coins launched today.
+
+Is this token a rug?
+
+Show whales buying SOL.
+
+Analyze my portfolio.
+
+Find tokens with over $1M daily volume.
+
+---
+
+# Architecture
+
+AI Client
+
+↓
+
+OrbitMCP
+
+↓
+
+Providers
+
+↓
+
+Blockchain
+
+↓
+
+Response
+
+---
+
+# Roadmap
+
+## v1
+
+- Wallet Analysis
+- Token Analysis
+- Live Prices
+- Rug Detection
+
+## v2
+
+- Portfolio Tracking
+- Alerts
+- Whale Tracking
+- Trending Scanner
+
+## v3
+
+- Trading Actions
+- Copy Trading
+- Hyperliquid
+- AI Portfolio Manager
+
+---
+
+# Security
+
+OrbitMCP never stores private keys or seed phrases.
+
+Always verify transactions before signing.
+
+---
+
+# FAQ
+
+### Is OrbitMCP free?
+
+Yes.
+
+### Does it work with Claude?
+
+Yes.
+
+### Does it support ChatGPT?
+
+Yes.
+
+### Does it support Solana?
+
+Yes.
+
+### Does it support Ethereum?
+
+Yes.
+
+---
+
+# Contributing
+
+Pull requests are welcome.
+
+---
+
+# License
+
+MIT
