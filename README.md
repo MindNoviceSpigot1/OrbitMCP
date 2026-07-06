@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" width="140" alt="OrbitMCP Logo">
+  <img src="assets/logo.png" width="140" alt="OrbitMCP Logo">
 </p>
 
 <h1 align="center">OrbitMCP</h1>
@@ -14,10 +14,10 @@ Real-time crypto intelligence for Claude, ChatGPT, Cursor, VS Code, Windsurf and
 
 <p align="center">
 
-[![Release](https://img.shields.io/github/v/release/YOURNAME/OrbitMCP)](...)
-[![License](https://img.shields.io/github/license/YOURNAME/OrbitMCP)](...)
-[![Stars](https://img.shields.io/github/stars/YOURNAME/OrbitMCP)](...)
-[![Downloads](https://img.shields.io/github/downloads/YOURNAME/OrbitMCP/total)](...)
+[![Release](https://img.shields.io/github/v/release/MindNoviceSpigot1/OrbitMCP)](...)
+[![License](https://img.shields.io/github/license/MindNoviceSpigot1/OrbitMCP)](...)
+[![Stars](https://img.shields.io/github/stars/MindNoviceSpigot1/OrbitMCP)](...)
+[![Downloads](https://img.shields.io/github/downloads/MindNoviceSpigot1/OrbitMCP/total)](...)
 
 </p>
 
